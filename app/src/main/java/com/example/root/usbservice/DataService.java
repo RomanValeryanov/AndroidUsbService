@@ -102,6 +102,7 @@ public class DataService extends Service {
         });
         th.start();
     }
+    
     @Override
     public void onDestroy() {
         super.onDestroy();
